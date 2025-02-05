@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Kavithakumaresan/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kavithakumaresan/azure-network-protocols)
-  - [Network File Shares and Inspecting Group Policy](https://github.com/Kavithakumaresan/network-File-Shares)
+  - [Network File Shares and Inspecting Group Policy](https://github.com/Kavithakumaresan/network-file-shares)
 
 
 <h2>🤳Connect with me:</h2>
