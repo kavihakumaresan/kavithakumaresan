@@ -1,5 +1,5 @@
 <h1>Hi, I'm Kavitha, an <a href="linkedin.com/in/kavitha-ramakrishnan-9a632a2bb
-">IT Professional</a>☺</h1>
+">IT Professional</a>☺</h>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
